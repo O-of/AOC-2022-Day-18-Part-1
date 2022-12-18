@@ -1,0 +1,13 @@
+setblock 2 2 2 minecraft:iron_block
+setblock 1 2 2 minecraft:iron_block
+setblock 3 2 2 minecraft:iron_block
+setblock 2 1 2 minecraft:iron_block
+setblock 2 3 2 minecraft:iron_block
+setblock 2 2 1 minecraft:iron_block
+setblock 2 2 3 minecraft:iron_block
+setblock 2 2 4 minecraft:iron_block
+setblock 2 2 6 minecraft:iron_block
+setblock 1 2 5 minecraft:iron_block
+setblock 3 2 5 minecraft:iron_block
+setblock 2 1 5 minecraft:iron_block
+setblock 2 3 5 minecraft:iron_block
